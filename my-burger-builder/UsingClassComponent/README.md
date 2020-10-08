@@ -1,3 +1,11 @@
+For this project only class Component used
+By starting, Run
+
+### `npm install`
+
+### `npm start`
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
