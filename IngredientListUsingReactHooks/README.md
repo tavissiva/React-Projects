@@ -15,19 +15,15 @@
  The *Loading Indicator* was triggered every time when the *Ingredient Form*, *Filtering Component* was submitted.
 
   
-**How To Use This Project:**
-
-[how-to-use.txt](/how-to-use.txt)
+**How To Use This Project :**  *[how-to-use.txt](/IngredientListUsingReactHooks/how-to-use.txt)*
 
 **Login Page:**
 
-![LogIn Page](/webpage/login.jpg)
+![LogIn Page](/IngredientListUsingReactHooks/webpages/login.jpg)
 
 **Ingredient Page**
 
-![Ingredient Page](/webpage/ingredient.jpg)
-
-![Loader Page](/webpage/loader.jpg)
+![Ingredient Page](/IngredientListUsingReactHooks/webpages/ingredient.JPG)
     
     
   
