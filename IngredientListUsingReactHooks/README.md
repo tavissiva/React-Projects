@@ -2,7 +2,7 @@
 
 ---
 
-> `React`  `Firebase`  `Create-React-App`       ***React Hooks***
+`React`  `Firebase`  `Create-React-App`       ***React Hooks***
 
 ---
 
