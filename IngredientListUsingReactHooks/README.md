@@ -13,7 +13,7 @@
  to fetch the Ingredients detail from the **Firebase**.The *Ingredient List Component* displays the Ingredient list 
  which was fetched from the *Firebase*. In the *Ingredient List Component*, the pressed list item was removed. 
  The *Loading Indicator* was triggered every time when the *Ingredient Form*, *Filtering Component* and 
- *Ingredient List Component* was processing their action.
+ *Ingredient List Component* is processing their action.
 
   
 **How To Use This Project :**  *[how-to-use.txt](/IngredientListUsingReactHooks/how-to-use.txt)*
