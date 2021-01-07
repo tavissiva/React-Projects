@@ -2,7 +2,7 @@
 
 > ###  *[Ingredient List Using React Hooks](/IngredientListUsingReactHooks/)*
 
- ![ingredient](/IngredientListUsingReactHooks/webpages/ingredient.JPG)
+ <img src="/IngredientListUsingReactHooks/webpages/ingredient.JPG" width="600"/>
  
  
  ---
@@ -11,7 +11,8 @@
  
  > ###  *[My Burger Builder React Class Lifecycle](/my-burger-builder-react-ClassLifecycle/)*
 
- ![burgerbuilder](/my-burger-builder-react-ClassLifecycle/webpages/burgerbuilder1.JPG)
+ <img src="/my-burger-builder-react-ClassLifecycle/webpages/burgerbuilder1.JPG" width="600"/>
+ 
  
  
  
