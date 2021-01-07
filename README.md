@@ -4,6 +4,17 @@
 
  ![ingredient](/IngredientListUsingReactHooks/webpages/ingredient.JPG)
  
- > ###  *[Ingredient List Using React Hooks](/my-burger-builder-react-ClassLifecycle/)*
+ 
+ ---
+ ---
+ ---
+ 
+ > ###  *[My Burger Builder React Class Lifecycle](/my-burger-builder-react-ClassLifecycle/)*
 
- ![ingredient](/my-burger-builder-react-ClassLifecycle/webpages/burgerbuilder.JPG)
+ ![burgerbuilder](/my-burger-builder-react-ClassLifecycle/webpages/burgerbuilder1.JPG)
+ 
+ 
+ 
+ ***[Credits](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)***
+ 
+ 
