@@ -28,6 +28,6 @@
 
 **Authenticate Page:**
 
-![Authenticate Page](/my-burger-builder-react-ClassLifecycle/webpages/Authenticate.JPG)
+![Authenticate Page](/my-burger-builder-react-ClassLifecycle/webpages/authenticate.JPG)
 
 ***Credits :*** [ Udemy - React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) *Academind by Maximilian Schwarzmüller*
